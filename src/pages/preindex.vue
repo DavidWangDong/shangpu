@@ -29,7 +29,7 @@ export default {
   mounted (){
       setTimeout(()=>{
           this.$router.push({path:'/index'});
-      }, 5000);
+      }, 7000);
   },
   data () {
     return {

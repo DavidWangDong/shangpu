@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <loading v-show = "isLoading" :precent="progress"></loading>
-    <router-view @showtost="showTost" v-show="!isLoading" />
+    <loading v-if = "isLoading" :precent="progress"></loading>
+    <router-view @showtost="showTost" v-if="!isLoading" />
     <tost-view v-for="(val,index) in messageList" :message="val" :key="index"></tost-view>
   </div>
 </template>
