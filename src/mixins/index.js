@@ -137,11 +137,11 @@ export default {
 				  src: 'http://n.sinaimg.cn/ah/865fe30d/20171113/Zu-171.png',
 				  children:[
 					  { name:'2017年度最具人气口碑街区',celltype:1,listName:'街区名'},
-					  { name: '2017年度最具特色街区', celltype: 3, listName: '街区名'},
-					  { name: '2017城市商业地标奖', celltype: 4, listName: '街区名'},
-					  { name: '2018年度最具投资价值街区', celltype: 5, listName: '街区名'},
-					  { name: '2018最值得期待的购物中心', celltype: 6, listName: '街区名'},
-					  { name: '2018年度最具投资价值写字楼', celltype: 7, listName: '街区名'}
+					  { name: '2017年度最具特色街区', celltype: 2, listName: '街区名'},
+					  { name: '2017城市商业地标奖', celltype: 3, listName: '街区名'},
+					  { name: '2018年度最具投资价值街区', celltype:4, listName: '街区名'},
+					  { name: '2018最值得期待的购物中心', celltype: 5, listName: '街区名'},
+					  { name: '2018年度最具投资价值写字楼', celltype:6, listName: '街区名'}
 				  ]
 				},
 				{ 

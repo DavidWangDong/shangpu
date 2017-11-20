@@ -119,7 +119,7 @@ import mixin from '@/mixins/'
 .proName{
     font-size:0.26rem;
     color:#d9c996;
-    padding:0 0.37rem;
+    padding:0.05rem 0.37rem;
     line-height: 0.48rem;
     background:url(http://n.sinaimg.cn/ah/865fe30d/20171114/JuXing.png) no-repeat center 50%;
     background-size:contain;

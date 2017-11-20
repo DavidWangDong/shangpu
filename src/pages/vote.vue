@@ -6,7 +6,7 @@
         <div class="mainContent">
             <h3 class="pro_head"><span>投票说明</span></h3>
             <div :class="['pro_content',{'open':openDetail}]" @click="openDetail=!openDetail">
-                <p>本次评选涉及“项目奖”、“人物奖”、“企业奖”三大领域，共计12个奖项。投票时间为11月10日--12月10日，网友可通过PC端或者手机端参与各奖项评选。</p>
+                <p>本次评选涉及“项目奖”、“人物奖”、“企业奖”三大领域，共计12个奖项。投票时间为11月20日--12月20日，网友可通过PC端或者手机端参与各奖项评选。</p>
                 <div :class="['close_icon']">
                     <span class="arrow">》</span>
                     <span>展开</span>

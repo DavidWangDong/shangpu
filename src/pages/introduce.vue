@@ -7,7 +7,7 @@
           <p>
                安徽商业地产『金地标』奖项由新浪安徽首创发起，本着“客观求实、全面细致”的评审原则，遴选学界、商业地产界、专业机构专家组成强大的评审阵容，通过对众多权威机构的数据分析，项目与商家的现场实地调研、媒体调查等手段，对安徽商业地产与知名品牌商家行业进行大规模的专业审视。
           </p>
-          <p>        本次评选涉及<span class="strong">“项目奖”</span>、<span class="strong">“人物奖”</span>、<span class="strong">“企业奖”三大领域</span>，共计<span class="strong">12</span>个奖项。投票时间为<span class="strong">11月10日--12月10日</span>，网友可通过PC端或者手机端参与各奖项评选。公开投票结束后，<span class="strong">在统计网友投票数据的基础之上，综合相关机构、专家评委的投票，最终确定各奖项的归属</span>。榜单将在“2017安徽首届商铺节暨第一届‘金地标’商业地产评选”颁奖现场揭晓。 
+          <p>        本次评选涉及<span class="strong">“项目奖”</span>、<span class="strong">“人物奖”</span>、<span class="strong">“企业奖”三大领域</span>，共计<span class="strong">12</span>个奖项。投票时间为<span class="strong">11月20日--12月20日</span>，网友可通过PC端或者手机端参与各奖项评选。公开投票结束后，<span class="strong">在统计网友投票数据的基础之上，综合相关机构、专家评委的投票，最终确定各奖项的归属</span>。榜单将在“2017安徽首届商铺节暨第一届‘金地标’商业地产评选”颁奖现场揭晓。 
 </p>        
       </div>
       <div class="picContain rater before">
