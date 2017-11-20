@@ -9,7 +9,7 @@
             </p>
         </div>
         <div class="listHeader">
-            <p class="name">街区名</p>
+            <p class="name">姓名</p>
             <p class="count">票数</p>
             <p class="vote">支持</p>
         </div>

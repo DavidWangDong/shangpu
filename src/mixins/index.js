@@ -15,6 +15,7 @@ export default {
 
 					if (data.error == 0) {
 						this.$parent.$emit('showtost', '投票成功');
+						this.toPage(val);
 						val.count++;
 					} else {
 

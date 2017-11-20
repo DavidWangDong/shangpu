@@ -58,6 +58,8 @@
         text-indent:2em;
         line-height: 0.3rem;
         text-align:left;
+        overflow: auto;
+        height: 1.7rem;
     }   
     .buttonWrap{
         bottom:0;
