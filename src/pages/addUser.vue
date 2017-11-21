@@ -2,7 +2,7 @@
    <div class="page before">
         <div class="hover pos_fix" v-if ="isShowModal">
             <div class="detials pos_rel">
-                <img src="http://n.sinaimg.cn/ah/865fe30d/20171115/16.png" alt="">
+                <img src="http://n.sinaimg.cn/ah/865fe30d/20171121/16.png" alt="">
                 <span class="pos_abs close" @click="isShowModal=false"></span>
             </div>
         </div>

@@ -1,6 +1,6 @@
 <template>
   <div class="picContain headers">
-    <img src="http://n.sinaimg.cn/ah/865fe30d/20171114/12_03.png" alt="">
+    <img src="http://n.sinaimg.cn/ah/865fe30d/20171121/10_02.png" alt="">
  </div>
 </template>
 <script>

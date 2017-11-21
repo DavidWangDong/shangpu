@@ -6,7 +6,8 @@
         <div class="mainContent">
             <h3 class="pro_head"><span>投票说明</span></h3>
             <div :class="['pro_content',{'open':openDetail}]" @click="openDetail=!openDetail">
-                <p>本次评选涉及“项目奖”、“人物奖”、“企业奖”三大领域，共计12个奖项。投票时间为11月20日--12月20日，网友可通过PC端或者手机端参与各奖项评选。</p>
+                <p>本次评选涉及“项目奖”、“人物奖”、“企业奖”三大领域，共计12个奖项。投票时间为11月20日--12月20日，网友可通过PC端或者手机端参与各奖项评选。公开投票结束后，在统计网友投票数据的基础之上，综合相关机构、专家评委的投票，最终确定各奖项的归属。榜单将在“2017安徽首届商铺节暨第一届‘金地标’商业地产评选”颁奖现场揭晓。 </p>
+                
                 <div :class="['close_icon']">
                     <span class="arrow">》</span>
                     <span>展开</span>
@@ -67,17 +68,18 @@
         margin:0 auto;
         font-size:0.2rem;
         color:#d9c996;
-        max-height: 1.92rem;
+        /* max-height: 1.92rem; */
         overflow:hidden;
     }
-    .pro_content.open{
-        max-height: inherit;
+    .pro_content.open p{
+       height: inherit;
     }
     .pro_content p{
         line-height: 0.38rem;
         margin-top:0.17rem;
         text-align:left;
-        
+        height: 1.5rem;
+        overflow: hidden;
     }
     .close_icon{
         display:flex;

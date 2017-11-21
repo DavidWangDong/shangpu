@@ -8,7 +8,7 @@
               <img src="http://n.sinaimg.cn/ah/865fe30d/20171113/1-1.png" alt="">
           </div>
           <div class="pos_abs animate animate3">
-            <img src="http://n.sinaimg.cn/ah/865fe30d/20171113/QuanYi.png" alt="">
+            <img src="http://n.sinaimg.cn/ah/865fe30d/20171121/QuanYi.png" alt="">
           </div>
       </div>
       <navs />

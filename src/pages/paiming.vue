@@ -9,7 +9,7 @@
                         <div class="listItem"  v-for="(val,index) in list" :ref="'listItem'+index"  >
                             <p @click.self="chgTab('listItem'+index,val.type)">{{val.name}}</p>
                             <ul class="innerLisst">
-                                <li class="innerItem" v-for="(value,dex) in val.list"><span>top{{dex+1}}:</span>{{value.name}}</li>
+                                <li class="innerItem" v-for="(value,dex) in val.list"><span :class="[{strong:dex<=2}]">TOP{{dex+1}}:</span>{{value.name}}</li>
                             </ul>
                         </div>
                     </div>
@@ -83,6 +83,9 @@ import mixin from '@/mixins/index'
     background:url(http://n.sinaimg.cn/ah/865fe30d/20171114/8.jpg) no-repeat center top;
     background-size:cover;
     overflow: auto;
+}
+.strong{
+    color:#ffde02;
 }
 .headers{
     width:5.68rem;
